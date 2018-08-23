@@ -597,6 +597,32 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
+
+
+.team-member2 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.team-member2 img {
+  height: 225px; 
+  width: 225px;
+  height: 225px;
+  border: 7px solid #fff;
+}
+
+.team-member2 h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+}
+
+.team-member2 p {
+  margin-top: 0;
+}
+
+
+
 section#contact {
   background-color: #212529;
   background-image: url("../img/map-image.png");
