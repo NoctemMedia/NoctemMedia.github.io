@@ -575,29 +575,26 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
-.team-member1 {
+.team-member {
   margin-bottom: 50px;
   text-align: center;
 }
 
-.team-member1 img {
+.team-member img {
   width: 225px;
   height: 225px;
   border: 7px solid #fff;
 }
 
-.team-member1 h4 {
+.team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
 }
 
-.team-member1 p {
+.team-member p {
   margin-top: 0;
 }
-
-
-
 
 
 
@@ -620,35 +617,6 @@ header.masthead .intro-text .intro-heading {
 .team-member2 p {
   margin-top: 0;
 }
-
-
-
-
-
-
-
-.team-member3 {
-  margin-bottom: 50px;
-  text-align: center;
-}
-
-.team-member3 img {
-  width: 225px;
-  height: 225px;
-  border: 7px solid #fff;
-}
-
-.team-member3 h4 {
-  margin-top: 25px;
-  margin-bottom: 0;
-  text-transform: none;
-}
-
-.team-member3 p {
-  margin-top: 0;
-}
-
-
 
 
 
